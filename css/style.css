@@ -513,6 +513,10 @@ h5 {
   top: 12rem;
 }
 
+.left-0 {
+  left: 0px;
+}
+
 .z-10 {
   z-index: 10;
 }
